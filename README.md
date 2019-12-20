@@ -4,6 +4,8 @@ Jenkins Agent with maven build evn
 ### include
 * openjdk 1.8
 * maven 3.5
+* jenkins/jnlp-slave
+
 
 ### start
 * build this project with  
