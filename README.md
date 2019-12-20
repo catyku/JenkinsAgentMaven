@@ -1,6 +1,9 @@
 # JenkinsAgentMaven
 Jenkins Agent with maven build evn
 
+  
+blog : https://blog.yslifes.com/archives/2854
+
 ### include
 * openjdk 1.8
 * maven 3.5
